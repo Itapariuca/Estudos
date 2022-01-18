@@ -1,0 +1,19 @@
+h1 {
+    background-color: #778899;
+    height: 300px;
+    width: 300px;
+
+    border: 10px solid #345e72;
+
+    padding: 10px;
+
+    margin:20px auto 40px auto;
+
+    outline:5px dashed #fa8072;
+}
+
+a {
+    border: 10px solid #ff0000;
+    
+    padding: 10px;
+}
