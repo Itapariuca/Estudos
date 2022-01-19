@@ -1,0 +1,27 @@
+header{
+    height: 290px;
+    background-color: #3ad43a;
+    color: #ffffff;
+    background-image: linear-gradient(to bottom, #5bdf4f, #427046);
+}
+
+
+nav > a{
+    padding: 10px;
+    background-color: #3ad43a;
+    background-image: linear-gradient(to bottom, #5bdf4f, #427046);
+    color: #000000;
+    text-decoration: none;
+}
+
+nav > a:hover{
+    height: 30px;
+    width: 50px;
+    transition: 0.3s linear;
+    background-color: #1fee26;
+    color: #000000;
+}
+
+h1, h2 {
+    text-align: center;
+}
